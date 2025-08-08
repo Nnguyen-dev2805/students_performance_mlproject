@@ -1,0 +1,6 @@
+Agenda - Kế hoạch triển khai
+
+1. Set up the github (Repository)
+    + new enviroment
+    + setup.py
+    + requirements.txt

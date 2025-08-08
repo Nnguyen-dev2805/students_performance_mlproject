@@ -1,0 +1,13 @@
+prefix=D:/CODE/AI/Basic ML Project Practice/students_performance_mlproject/venv/Library
+exec_prefix=D:/CODE/AI/Basic ML Project Practice/students_performance_mlproject/venv/Library
+libdir=D:/CODE/AI/Basic ML Project Practice/students_performance_mlproject/venv/Library/lib
+sharedlibdir=D:/CODE/AI/Basic ML Project Practice/students_performance_mlproject/venv/Library/lib
+includedir=D:/CODE/AI/Basic ML Project Practice/students_performance_mlproject/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
